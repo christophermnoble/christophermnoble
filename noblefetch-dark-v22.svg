@@ -16,13 +16,13 @@
 <text x="587.3" y="105.1" class="b" xml:space="preserve">C, C++, Python, Rust, TypeScript</text>
 <text x="16.0" y="120.4" class="a" xml:space="preserve">⠀⠀⠀⣠⢏⡘⠉⣿⣡⡶⣿⢤⡾⠋⠉⣿⠋⠀⠀⢀⡴⠶⠆⠀⠀⢀⣠⢿⡀⠈⠳⣤⣈⣷⡄⢸⡿⣦⠐⣟⠛⠳⢿⣦⠱⡄⠀⠀</text>
 <text x="412.1" y="120.4" class="b" xml:space="preserve">OS:</text>
-<text x="442.6" y="120.4" class="b" xml:space="preserve">macOS</text>
+<text x="442.6" y="120.4" class="b" xml:space="preserve">macOS, Linux</text>
 <text x="16.0" y="135.6" class="a" xml:space="preserve">⠀⠀⠰⣷⠟⡿⣸⡷⢋⠀⣸⣾⡴⠾⢟⣿⡇⠀⠀⢸⣷⠶⠾⠿⠛⠛⠉⠉⠛⢷⣄⠈⠙⣯⡇⠈⠁⢹⡇⠀⠀⣼⠃⠙⢿⢣⡀⠀</text>
 <text x="412.1" y="135.6" class="b" xml:space="preserve">Shell:</text>
 <text x="465.4" y="135.6" class="b" xml:space="preserve">Zsh</text>
 <text x="16.0" y="150.8" class="a" xml:space="preserve">⠀⢀⣴⣯⡀⣻⡏⠀⡿⢼⡿⠫⠴⠛⠋⠁⢰⠆⣠⣞⣁⡀⠀⠀⠘⠶⢦⣤⣀⠀⠙⠃⠀⣿⢡⣶⠶⡞⣇⠘⠻⣿⡄⢀⣈⣷⢱⡀</text>
 <text x="412.1" y="150.8" class="b" xml:space="preserve">Editor:</text>
-<text x="473.0" y="150.8" class="b" xml:space="preserve">Vim, JetBrains</text>
+<text x="473.0" y="150.8" class="b" xml:space="preserve">Vim, JetBrains, Cursor</text>
 <text x="16.0" y="166.1" class="a" xml:space="preserve">⢀⡞⠸⢙⡇⠘⣧⢀⣿⠏⣠⡶⢖⣶⡶⠶⣿⠲⡟⠁⠈⠻⡆⠀⢠⡀⠀⠀⠛⣿⡆⠀⠀⣿⡈⠻⣦⡈⠻⣷⡄⠘⣟⠘⠿⣧⣼⡇</text>
 <text x="412.1" y="166.1" class="b" xml:space="preserve">Engines:</text>
 <text x="480.6" y="166.1" class="b" xml:space="preserve">Unreal Engine, Unity, Blender</text>
@@ -31,7 +31,7 @@
 <text x="465.4" y="181.3" class="b" xml:space="preserve">machine learning systems, diffusion, generative 3D</text>
 <text x="16.0" y="196.5" class="a" xml:space="preserve">⢈⡟⣿⠁⢸⡏⢠⣇⡞⣠⡾⠛⠀⢰⡆⠀⠀⢀⡹⣦⠙⢷⣄⠀⠀⣴⡿⠗⠚⠿⣧⡀⠐⠋⠀⠙⢷⣄⠀⠀⠸⠀⣠⠏⣰⡿⠀⢹</text>
 <text x="412.1" y="196.5" class="b" xml:space="preserve">Building:</text>
-<text x="488.3" y="196.5" class="b" xml:space="preserve">Noble, I.R.O.N., SignalHunt, ProspectIQ, Skulpty</text>
+<text x="488.3" y="196.5" class="b" xml:space="preserve">Beacon, Noble, Skulpty</text>
 <text x="16.0" y="211.8" class="a" xml:space="preserve">⣿⠀⣧⢀⡼⠷⢼⣼⢠⡟⠀⠀⢀⣼⡷⠟⠻⢿⡅⠙⠀⠈⠙⠛⣾⠋⠀⢠⡶⠂⠈⢻⣤⠀⠀⣄⠀⣿⠀⣶⢀⣴⠏⣰⠟⢻⡆⡮</text>
 <text x="412.1" y="211.8" class="b" xml:space="preserve">Hobby:</text>
 <text x="465.4" y="211.8" class="b" xml:space="preserve">worldbuilding, content creation, musician, mma</text>

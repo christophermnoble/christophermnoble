@@ -7,9 +7,9 @@
 <img src="banners/banner-vision-v1.svg" alt="Twin lighthouses at dusk under a crescent moon, with object-detection boxes labelling two lighthouses, the moon, and a structure" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="noblefetch-dark-v21.svg">
-  <source media="(prefers-color-scheme: light)" srcset="noblefetch-light-v21.svg">
-  <img src="noblefetch-dark-v21.svg" alt="noblefetch" style="width:100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="noblefetch-dark-v22.svg">
+  <source media="(prefers-color-scheme: light)" srcset="noblefetch-light-v22.svg">
+  <img src="noblefetch-dark-v22.svg" alt="noblefetch" style="width:100%" />
 </picture>
 
 <!-- galaga -->
